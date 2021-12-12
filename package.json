@@ -1,0 +1,15 @@
+{
+  "name": "grogulag",
+  "author": "Pangauwin",
+  "main": "index.js",
+  "version": "1.0.0",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "sequelize": "^6.12.0-beta.3",
+    "sqlite3": "^5.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
