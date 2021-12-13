@@ -26,7 +26,7 @@ const Prisoners = sequelize.define('prisoners', {
     allowNull: false}
 });
 
-Client.login(process.env.TOKEN);
+Client.login('OTE5MTc2MzIwNTAyNjAzODM4.YbR_qA.-ixujFzTS5V84BYhbtlskYRTg0U');
 
 const ping = new SlashCommandBuilder()
     .setName("ping")
